@@ -12,11 +12,11 @@ Database: Mysql + Redis
 
 Others：HTML+CSS+JS
 
-# **项目简介**：
+## **项目简介**：
   本项目有黑马程序员网校提供，结合Javaweb课程进行学习，可以对基于Java语言的web开发有一个初步的了解。视频链接附在了下面。前端是有预先准备好的资料，可以直接用webapp的包，课程前半部分也会教如何搭建前端页面。此网站是基于Bootstrap和其内置的Jquery制作的，画风比较简约，很容易上手。后台开发简单实现了登陆，注册，退出，路线查询，分类展示，收藏这几个功能。总体代码量不大，但是可以帮助初学者掌握web开发的基本框架。后续可以学习SSM，springboot等框架进行完善。    
 视频学习网址：https://www.bilibili.com/video/BV1qv4y1o79t/?spm_id_from=333.337.search-card.all.click&vd_source=126a675e30d3918492f9fe1ca7b624d4
 
-# 项目目录：  
+## 项目目录：  
  ![Project Directory](https://github.com/JasonZhang0305/githubimg/blob/main/img/projectd.jpeg).   
 
 ## 三层架构：
@@ -51,9 +51,9 @@ j) Druid：数据库连接池 Jdbcpool 用于提高数据链接的效率性
 
 k) JdbcTemplate：Spring的jdbc工具 导入jar包，简化书写，方便开发
   
-# **项目导入**
+## 项目导入
 配置好所需要的开发环境，加载peom文件，启动服务器即可。  
-要点！！  
+**要点！！**  
 **1. 修改Jdbc的properties.**     
 ![DB](https://github.com/JasonZhang0305/githubimg/blob/main/img/properties.jpeg).     
 **2. 创建并连接数据库，所需要的数据在Mysql文件夹下. **    
@@ -63,8 +63,8 @@ k) JdbcTemplate：Spring的jdbc工具 导入jar包，简化书写，方便开发
   
 
 ##功能实现： 
-  
-**3.1 基本注册功能流程**  
+**3. 注册功能**
+3.1 基本注册功能流程 
   
  注册时需要验证用户信息。  
   
