@@ -62,13 +62,13 @@ k) JdbcTemplate：Spring的jdbc工具 导入jar包，简化书写，方便开发
  ![Tomcat](https://github.com/JasonZhang0305/githubimg/blob/main/img/tomcat.jpeg).     
   
 
-##功能实现： 
-**3. 注册功能**
+## 功能实现 
+**3. 注册功能**  
 3.1 基本注册功能流程 
   
  注册时需要验证用户信息。  
   
- 3.2 邮箱激活功能  
+3.2 邮箱激活功能  
   
  需要先开启服务然后才能使用，开启后在MailUtils.java类中填上自己的邮箱账号和授权码或者登陆密码，代码中有一个测试代码可以先运行测试。   
  ![Register](https://github.com/JasonZhang0305/githubimg/blob/main/img/register.png)  
