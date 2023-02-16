@@ -17,7 +17,7 @@ Others：HTML+CSS+JS
 本项目有黑马程序员网校提供，结合Javaweb课程进行学习，可以对基于Java语言的web开发有一个初步的了解。视频链接附在了下面。前端是有预先准备好的资料，可以直接用webapp的包，课程前半部分也会教如何搭建前端页面。此网站是基于Bootstrap和其内置的Jquery制作的，画风比较简约，很容易上手。后台开发简单实现了登陆，注册，退出，路线查询，分类展示，收藏这几个功能。总体代码量不大，但是可以帮助初学者掌握web开发的基本框架。后续可以学习SSM，springboot等框架进行完善。
 
 # 项目目录：
- ![Project Directory](https://drive.google.com/file/d/1IZNZyaXRPnuo2l6b6N_rILMb2eUJUWUl/view?usp=share_link)
+ ![Project Directory](https://github.com/JasonZhang0305/githubimg/blob/main/img/projectd.jpeg)
 
 视频学习网址：https://www.bilibili.com/video/BV1qv4y1o79t/?spm_id_from=333.337.search-card.all.click&vd_source=126a675e30d3918492f9fe1ca7b624d4
 
