@@ -54,17 +54,17 @@ k) JdbcTemplate：Spring的jdbc工具 导入jar包，简化书写，方便开发
 # **项目导入**
 配置好所需要的开发环境，加载peom文件，启动服务器即可。  
 要点！！  
-1.修改Jdbc的properties：    
+**1. 修改Jdbc的properties.**     
 ![DB](https://github.com/JasonZhang0305/githubimg/blob/main/img/properties.jpeg).     
-2.创建并连接数据库，所需要的数据在Mysql文件夹下：    
+**2. 创建并连接数据库，所需要的数据在Mysql文件夹下. **    
  ![DB](https://github.com/JasonZhang0305/githubimg/blob/main/img/database.jpeg).     
-3.在Idea上运行Tomcat：    
+**3. 在Idea上运行Tomcat. **    
  ![Tomcat](https://github.com/JasonZhang0305/githubimg/blob/main/img/tomcat.jpeg).     
   
 
-**功能实现：**  
+##功能实现： 
   
-3.1 基本注册功能流程  
+**3.1 基本注册功能流程**  
   
  注册时需要验证用户信息。  
   
@@ -74,7 +74,7 @@ k) JdbcTemplate：Spring的jdbc工具 导入jar包，简化书写，方便开发
  ![Register](https://github.com/JasonZhang0305/githubimg/blob/main/img/register.png)  
   
 
-4 登陆和退出  
+**4. 登陆和退出**  
 
 登陆页面流程    
 ![Login](https://github.com/JasonZhang0305/githubimg/blob/main/img/login.png)  
@@ -82,13 +82,13 @@ k) JdbcTemplate：Spring的jdbc工具 导入jar包，简化书写，方便开发
 主页  
 ![Home](https://github.com/JasonZhang0305/githubimg/blob/main/img/home.jpeg)  
 
-5 收藏功能  
+**5. 收藏功能**  
   
 点击收藏会记录收藏次数，需要写与数据库交互的逻辑  
 ![Login](https://github.com/JasonZhang0305/githubimg/blob/main/img/collections.jpeg)  
   
  
-6 分类数据展示
+**6. 分类数据展示**
 
  6.1 缓存数据优化
 
