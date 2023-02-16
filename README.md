@@ -4,9 +4,13 @@
 ## A fullstack project for practicing programming skills included with font-end, back-end and database.
 
 Main Tools: Idea2023 + JDK8 + Maven
+
 Server: Tomcat 
+
 Frameworks: Bootstrap + Jquery + JdbcTemplate
+
 Database: Mysql + Redis  
+
 Others：HTML+CSS+JS
 
 # 项目简介：
