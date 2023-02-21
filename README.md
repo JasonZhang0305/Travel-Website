@@ -50,6 +50,8 @@ i) Mysql：数据库
 j) Druid：数据库连接池 Jdbcpool 用于提高数据链接的效率性
 
 k) JdbcTemplate：Spring的jdbc工具 导入jar包，简化书写，方便开发
+
+![3-Tiers Architecture]( ).   
   
 ## 项目导入
 配置好所需要的开发环境，加载peom文件，启动服务器即可。  
