@@ -77,8 +77,8 @@ k) JdbcTemplate：Spring的jdbc工具 导入jar包，简化书写，方便开发
 **4. 登陆和退出**  
 
 登陆页面流程    
-![Login](https://github.com/JasonZhang0305/githubimg/blob/main/img/login.png)  
-  
+![Login](https://github.com/JasonZhang0305/githubimg/blob/main/img/login.png) 
+ 
 主页  
 ![Home](https://github.com/JasonZhang0305/githubimg/blob/main/img/home.jpeg)  
 
